@@ -7,28 +7,24 @@ Father, Husband and developer of ideas, code and tangible things. Very varied ex
 
 #### Problem solving
 
-Probably a favourite of mine since it is it's own reward with the added bonus of the knowledge that comes with tackling an issue. I enjoy the challenge of solving or getting around a problem. Whether it be mechanical, legal or virtual in nature I love considering possibility and making it such. Wearing many hats over the years has helped broaden my horizons in this regard. Tech in general is a very real passion of mine (...and skiing/snowboarding) and I'm eagerly looking forward to it's challenges.
+Probably a favourite of mine since it is it's own reward with the added bonus of the acquired knowledge. I enjoy the challenge of solving or getting around a problem. Whether it be mechanical, legal or virtual in nature I love considering possibility and making it such. Wearing many hats over the years has helped broaden my horizons in this regard. Tech in general is a very real passion of mine (...and skiing/snowboarding) and I'm eagerly looking forward to it's challenges.
 
-- Experience
-- Achievements
-- Evidence
+#### Fast learner
 
-#### Another Skill
+My ability to independently learn quickly is a skill that has allowed me to take on new roles and responsibilities over the years. My varied work experience, in-turn, has further developed my ability to learn quickly as my reputation pushed me into more and more challenging roles.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
+<!-- - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
 #### Makers Academy (2/2018 to 5/2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. I have been experimenting with code since 7 years old, starting with BASIC on an AMSTRAD 6128+ all the way through to university where I gained experience in a much wider variety of languages. It gives me a real buzz to solve a problem or make a 'thing' or even just understand something technically complicated so naturally, code was always going to be in my life. Makers has brought this passion back into the spotlight for me and the rewards have been fantastic.
+- Fast, independent learner. If necessity is the mother of all creation, it's not possible to be as passionate about making things as I am without understanding and getting the hang of new skills quickly. In my final project at Makers Academy I had only 6 days to learn a brand new stack (Python - Flask, MongoDB, React Native, JustGiving.com API) and present a final product in the form of a native iOS and Android app - [linked here](https://github.com/RandJam/nice). It was a success and I look forward to similar challenges.
+- Great collaborator. Working in a small team is where I have really thrived at Makers. I think a small group of keen, believers in a project is greater than the sum of its parts; many times over. Not just in what it delivers outwards but just as important, what it gives each member of the team. At Makers I was fortunate enough to be a part of several such teams and we made our MVP for every project and within the time limit (usually 5 days). Pair programming has also been key to maintaining momentum and healthy work balance while boosting understanding and cutting over-all learning times for the group as a whole.
 
 - OOP, TDD, BDD, MVC, DDD
 - Agile/XP
