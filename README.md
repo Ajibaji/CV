@@ -49,6 +49,42 @@ My ability to independently learn quickly is a skill that has allowed me to take
 - M-100 Community Management (Strata)
 - CLSCMP (Certified Logistics and Supply Chain Management Professional) from the American Institute of Business & Management
 
+## MAJOR PROJECTS
+
+#### Gyet
+Sep 2018 – Present
+
+A RESTful shared shopping list app with google assistant (OK GOOGLE...) for a front end. Built using NodeJS, Express and MangoDB. Working on automatic ordering from 3rd-party vendor based on previous brand purchase habits...
+
+#### Nice
+May 2018 – May 2018
+
+Nice is a single-button mobile phone application (iOS, Android) that facilitates charitable donations to a random UK registered charity. Developed with strict adherence to TDD principles and within a space of 5 days with zero prior knowledge or experience in any of the languages used in the stack; Python, Flask, Pytest, React Native, Axios, Jest, MongoDB and hosted on Heroku/mLab. 
+
+The idea was to create an app that would allow it's user to "pass it forward" whenever they got randomly lucky IRL without giving a charity company enough personal details to emotionally blackmail you for more money (the app is anonymous by default but can be changed by ticking a single check-box).
+
+Other contributors:
+Antonio Ciniglio 
+Paola Schiaffino 
+Daniel Campos
+
+#### Acebook
+Apr 2018 – Apr 2018
+
+AceBook is a social media platform, TDD'd In Ruby on Rails that enables users to create profiles, share, like, dislike and comment on posts. This project was built in 10 days by Team byte4 of the February 2018 cohort at Makers Academy. Read about this journey in the project blog here: https://medium.com/acebook-byte4
+
+Other contributors:
+Agnes Donat 
+Irfan Durrani 
+Antonio Ciniglio
+
+#### Thermoboy
+Apr 2018 – Apr 2018
+
+Simple Javascript thermostat operating on a Mark I Nintendo GameBoy!
+
+https://thermoboy.herokuapp.com
+
 ## Experience
 
 - Portland Solutions (2006 to 2010)    
