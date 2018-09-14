@@ -64,8 +64,8 @@ Nice is a single-button mobile phone application (iOS, Android) that facilitates
 The idea was to create an app that would allow it's user to "pass it forward" whenever they got randomly lucky IRL without giving a charity company enough personal details to emotionally blackmail you for more money (the app is anonymous by default but can be changed by ticking a single check-box).
 
 Other contributors:
-Antonio Ciniglio 
-Paola Schiaffino 
+Antonio Ciniglio, 
+Paola Schiaffino, 
 Daniel Campos
 
 #### Acebook
@@ -74,8 +74,8 @@ Apr 2018 – Apr 2018
 AceBook is a social media platform, TDD'd In Ruby on Rails that enables users to create profiles, share, like, dislike and comment on posts. This project was built in 10 days by Team byte4 of the February 2018 cohort at Makers Academy. Read about this journey in the project blog here: https://medium.com/acebook-byte4
 
 Other contributors:
-Agnes Donat 
-Irfan Durrani 
+Agnes Donat, 
+Irfan Durrani, 
 Antonio Ciniglio
 
 #### Thermoboy
