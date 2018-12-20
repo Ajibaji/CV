@@ -51,8 +51,11 @@ My ability to independently learn quickly is a skill that has allowed me to take
 
 ## MAJOR PROJECTS
 
+#### QA/DevOps project
+...for the creation of a predefined sized, configured Selenium Grid for near-immediate availability on a secure, private vritual cloud. AWS, Terfaform, Ansible and Shell Scripting feature heavily. Where defualt values suffice, an n-size grid can be launched with single command and be ready for use in the time it takes to spin up.
+
 #### Gyet
-Sep 2018 – Present
+Sep 2018 – October 2018
 
 A RESTful shared shopping list app with google assistant (OK GOOGLE...) for a front end. Built using NodeJS, Express and MangoDB. Working on automatic ordering from 3rd-party vendor based on previous brand purchase habits...
 
