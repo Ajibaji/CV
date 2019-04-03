@@ -62,29 +62,6 @@ The ability to independently learn quickly is a skill that has allowed me to tak
   - Eiffel
   - C++
 
-## Training & Education
-
-#### Hashicorp Professional Services Certification
-
-Attained Training and Certification from Hashicorp in implementing their products and services directly to their clients. The certification allows me to present myself on a Hashicorp assigned engagement as a Hashicorp employed consultant. Hashicorp's enterprise offerings are the focus, so training centres around Terraform, Consul, Vault and Nomad
-
-#### Makers Academy (2/2018 to 5/2018)
-
-- Curious and passionate about code. I have been experimenting with code since 7 years old, starting with BASIC on an AMSTRAD 6128+ all the way through to university where I gained experience in a much wider variety of languages. It gives me a real buzz to solve a problem or make a 'thing' or even just understand something technically complicated so naturally, code was always going to be in my life. Makers has brought this passion back into the spotlight for me and the rewards have been fantastic.
-- Fast, independent learner. If necessity is the mother of all creation, it's not possible to be as passionate about making things as I am without understanding and getting the hang of new skills quickly. In my final project at Makers Academy I had only 6 days to learn a brand new stack (Python - Flask, MongoDB, React Native, JustGiving.com API) and present a final product in the form of a native iOS and Android app - [linked here](https://github.com/RandJam/nice). It was a success and I look forward to similar challenges.
-- Great collaborator. Working in a small team is where I have really thrived at Makers. I think a small group of keen, believers in a project is greater than the sum of its parts; many times over. Not just in what it delivers outwards but just as important, what it gives each member of the team. At Makers I was fortunate enough to be a part of several such teams and we made our MVP for every project and within the time limit (usually 5 days). Pair programming has also been key to maintaining momentum and healthy work balance while boosting understanding and cutting over-all learning times for the group as a whole.
-
-#### University of Hertfordshire (2001 to 2005)
-
-- BEng in Network and Electrical Engineering (Hons)
-- 1st two years were originally BSc Computer Science
-- Vice President of HUSKIS (Hertfordshire University SKi & Snowboarding Club)
-
-#### Other qualifications
-- Real Estate Regulatory Authority (of Dubai) certified Real Estate Brokerage Manager (CRB)
-- M-201 Facility Management Certified
-- M-100 Community Management (Strata)
-- CLSCMP (Certified Logistics and Supply Chain Management Professional) from the American Institute of Business & Management
 
 ## MAJOR PROJECTS
 
@@ -164,7 +141,33 @@ Simple Javascript thermostat operating on a Mark I Nintendo GameBoy!
 
 https://thermoboy.herokuapp.com
 
-## Experience
+
+## Training & Education
+
+#### Hashicorp Professional Services Certification
+
+Attained Training and Certification from Hashicorp in implementing their products and services directly to their clients. The certification allows me to present myself on a Hashicorp assigned engagement as a Hashicorp employed consultant. Hashicorp's enterprise offerings are the focus, so training centres around Terraform, Consul, Vault and Nomad
+
+#### Makers Academy (2/2018 to 5/2018)
+
+- Curious and passionate about code. I have been experimenting with code since 7 years old, starting with BASIC on an AMSTRAD 6128+ all the way through to university where I gained experience in a much wider variety of languages. It gives me a real buzz to solve a problem or make a 'thing' or even just understand something technically complicated so naturally, code was always going to be in my life. Makers has brought this passion back into the spotlight for me and the rewards have been fantastic.
+- Fast, independent learner. If necessity is the mother of all creation, it's not possible to be as passionate about making things as I am without understanding and getting the hang of new skills quickly. In my final project at Makers Academy I had only 6 days to learn a brand new stack (Python - Flask, MongoDB, React Native, JustGiving.com API) and present a final product in the form of a native iOS and Android app - [linked here](https://github.com/RandJam/nice). It was a success and I look forward to similar challenges.
+- Great collaborator. Working in a small team is where I have really thrived at Makers. I think a small group of keen, believers in a project is greater than the sum of its parts; many times over. Not just in what it delivers outwards but just as important, what it gives each member of the team. At Makers I was fortunate enough to be a part of several such teams and we made our MVP for every project and within the time limit (usually 5 days). Pair programming has also been key to maintaining momentum and healthy work balance while boosting understanding and cutting over-all learning times for the group as a whole.
+
+#### University of Hertfordshire (2001 to 2005)
+
+- BEng in Network and Electrical Engineering (Hons)
+- 1st two years were originally BSc Computer Science
+- Vice President of HUSKIS (Hertfordshire University SKi & Snowboarding Club)
+
+#### Other qualifications
+- Real Estate Regulatory Authority (of Dubai) certified Real Estate Brokerage Manager (CRB)
+- M-201 Facility Management Certified
+- M-100 Community Management (Strata)
+- CLSCMP (Certified Logistics and Supply Chain Management Professional) from the American Institute of Business & Management
+
+
+## Other Experience
 
 - Portland Solutions (2006 to 2010)    
 Founder & CEO - Portland Solutions was an IT consultancy and support company working with SME's based in Dubai and Abu Dhabi
