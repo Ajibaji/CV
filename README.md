@@ -69,7 +69,7 @@ The ability to independently learn quickly is a skill that has allowed me to tak
 Feb 2019 - April 2019
 
 A world first - unprecedented exploitation of AWS Lambda's underlying power and near-instant scaling ability to enable massive parallel execution of full end-to-end test-suites, reducing execution times from tens of minutes down to the time it takes to execute the longest-running single test in the suite (usually a couple of minutes). All in a standard Selenium Grid network formation with normal Selenium reporting. 
-Each Lambda instance executes a single test only, therefore increasing reliability and reducing flakiness. This setup enables end-to-end testing to move further left, and costs less in the process. This is Selenium *Grid* and not just multiple instances of Standalone Server
+Each Lambda instance executes a single test only, therefore increasing reliability and reducing flakiness. This setup enables end-to-end testing to move further left, and costs less in the process. This is Selenium *Grid* and not just multiple instances of Selenium Standalone Server
 
 #### Mobile Automated Testing Framework
 Jan 2019 - Feb 2019
