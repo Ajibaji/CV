@@ -61,7 +61,7 @@ The ability to independently learn quickly is a skill that has allowed me to tak
   - Eiffel
   - C++
 
-## Education
+## Training & Education
 
 #### Hashicorp Professional Services Certification
 
