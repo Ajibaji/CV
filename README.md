@@ -1,6 +1,6 @@
 ## Ammar Arjomand
 
-Father, Husband and developer of ideas, code and tangible things. Very varied experience, ranging from residential and retail development to full stack web development and IT consulting. My ideal would be a agile, close-knit team of diverse minds and skills working together on something that pushes the bounds of what most consider possible...or something in accounting.
+Father, Husband and developer of ideas, code and tangible things. Very varied experience, ranging from residential and retail development to full stack web development and IT consulting. My ideal would be an agile, close-knit team of diverse minds and skills working together on something that pushes the bounds of what most consider possible...or something in accounting.
 
 
 ## Skills
