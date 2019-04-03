@@ -37,6 +37,7 @@ The ability to independently learn quickly is a skill that has allowed me to tak
       - VPC
       - Fargate
       - Lambda
+      - Device Farm
   - GCP
       - Compute Engine
       - Cloud Run (AWS Fargate competitor, currenlty in Private-Alpha)
@@ -109,6 +110,25 @@ Creation scripts utilising industry standard tools, methods and services to depl
 - Docker (containers, machine, swarm)
 - Selenium (custom servlets, proxies)
 - Bash/Chrome/Firefox/Xvfb
+
+#### React Native/Axios/Node/Express based mobile app
+Oct 2018 – Nov 2018
+
+Project descriptionCross-platform, hybrid mobile app.
+Front-end
+- React Native
+
+Back-end
+- Axios
+- Express
+- Nodejs
+
+Database
+- MongoDB
+
+Testing
+- Jest
+- Appium
 
 #### Gyet
 Sep 2018 – October 2018
